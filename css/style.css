@@ -380,7 +380,7 @@ a.active {
 }
 
 .portfolio .categories-grid .categories ul li a.active {
-    background-color: #6087cf;
+    background-color: #7ebaf3;
     padding: 0px 20px;
     color: white;
     text-decoration: none;
@@ -498,7 +498,7 @@ a.active {
 .project_btn{
     display:inline-block;
 	padding:5px 20px;
-	background-color: rgb(83, 115, 255);
+	background-color: rgb(116, 176, 255);
 	color:#fff;
     border-radius: 20px;
     box-sizing: border-box;
