@@ -279,13 +279,15 @@ a.active {
     color: #7188d8;
 }
 
+.section video{width: 100%;
+display: block;}
 
 /* home section
 ==================================================*/
 
 #home {
-    background: url(../img/home_bg.jpg);
-    background-size: cover;
+/*     background: url(../img/home_bg.jpg);
+    background-size: cover; */
     height: 100vh;
 }
 
